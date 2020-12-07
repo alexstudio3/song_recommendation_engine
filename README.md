@@ -9,7 +9,9 @@ Recording of presentation of project (including demo): https://drive.google.com/
 
 ## Instructions:
 
-Detailed in case-study-gnod. Summary: build a song recommendation engine using Billboard 100 songs and recommend users songs based on their input songs. 
+Detailed in case-study-gnod. 
+
+Summary: build a song recommendation engine using Billboard 100 songs and recommend users songs based on their input songs. 
 
 
 ## Plan and approach:

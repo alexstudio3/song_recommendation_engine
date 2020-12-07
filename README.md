@@ -4,7 +4,7 @@
 
 PPT slides: song Recommendation Engine.pptx
 
-Recording of presentation of project and demo: https://drive.google.com/file/d/1OqalHPTDYaWkRXamURQvsC9rwGMYIiFE/view?usp=sharing
+Recording of presentation of project (including demo): https://drive.google.com/file/d/1OqalHPTDYaWkRXamURQvsC9rwGMYIiFE/view?usp=sharing
 
 
 ## Instructions:

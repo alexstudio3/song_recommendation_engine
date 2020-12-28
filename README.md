@@ -2,7 +2,7 @@
 
 ## Presentation and overview: 
 
-PPT slides: song Recommendation Engine.pptx
+PPT slides: https://drive.google.com/file/d/1kzed-7Tl8qdhcbUxfMVeKcQHy_k6Ul0u/view?usp=sharing
 
 Recording of presentation of project (including demo): https://drive.google.com/file/d/1OqalHPTDYaWkRXamURQvsC9rwGMYIiFE/view?usp=sharing
 
@@ -27,3 +27,7 @@ spotify_song_prediction.ipynb - first part exports a dataset csv which are the t
 ## Instructions to run project: 
 
 Open spotify_song_prediction.ipynb and run all cells to start, where you will be prompted to enter user input. To enter a new user input song, run last cell again. 
+
+## Skills developed
+- Web scrapping
+- K means clustering based on song features obtained through API.
